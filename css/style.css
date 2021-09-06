@@ -37,7 +37,7 @@ header .toggle {
   position: relative;
   width: 30px;
   height: 30px;
-  background: url(/PagWebAnime/img/menu_lines_icon.svg);
+  background: url(/img/menu_lines_icon.svg);
   background-size: 25px;
   background-repeat: no-repeat;
   background-position: center;
@@ -49,7 +49,7 @@ header .toggle {
 }
 
 header .toggle.active {
-  background: url(/PagWebAnime/img/close_round_icon.svg);
+  background: url(/img/close_round_icon.svg);
   background-size: 25px;
   background-repeat: no-repeat;
   background-position: center;
